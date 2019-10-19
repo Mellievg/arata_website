@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571090228255.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2149099300",
+    "id" : "979A69B0",
+    "lastKnownWriteTime" : 1571093311,
+    "last_content_update" : 1571093311706,
+    "path" : "~/Arata's website/themes/hugo-academic/data/themes/dark.toml",
+    "project_path" : "themes/hugo-academic/data/themes/dark.toml",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
