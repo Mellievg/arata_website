@@ -1,5 +1,3 @@
 ---
 site: blogdown:::blogdown_site
 ---
-Hello world. I am learning how to work with GIT desktop. 
-Let's see if it works the other way around
