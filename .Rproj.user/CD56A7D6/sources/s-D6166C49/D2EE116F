@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1571093874264.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3595325345",
+    "hash" : "3530911254",
     "id" : "D2EE116F",
-    "lastKnownWriteTime" : 1571093979,
-    "last_content_update" : 1571132168849,
+    "lastKnownWriteTime" : 1571558287,
+    "last_content_update" : 1571558287566,
     "path" : "~/Arata's website/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
-        "cursorPosition" : "8,13",
-        "scrollLine" : "0"
+        "cursorPosition" : "35,22",
+        "scrollLine" : "23"
     },
     "read_only" : false,
     "read_only_alternatives" : [
